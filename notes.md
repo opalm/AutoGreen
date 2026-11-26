@@ -16,7 +16,6 @@
 - seed note 16
 - seed note 17
 - seed note 18
-- seed note 19
 - seed note 20
 - seed note 21
 - seed note 22
